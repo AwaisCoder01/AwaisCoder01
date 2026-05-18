@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋, I'm [Muhammad Awais]
 
-<!--
-**AwaisCoder01/AwaisCoder01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 MERN Stack Developer | 🎓 BSCS Student
 
-Here are some ideas to get you started:
+🎓 BSCS Student @ Virtual University (VU)  
+💻 MERN Stack Trainee @ SMIT (Saylani Mass IT Training Program)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate Full-Stack Web Developer focused on building modern, responsive, and scalable web applications using the **MERN Stack (MongoDB, Express.js, React, Node.js)**.
+
+---
+
+## 💻 Tech Stack
+
+- 🌐 Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS  
+- ⚙️ Backend: Node.js, Express.js  
+- 🗄️ Database: MongoDB  
+- 🔧 Tools: Git, GitHub, Postman, VS Code  
+
+---
+
+## 🎯 What I Do
+
+- Build full-stack MERN applications  
+- Develop RESTful APIs and backend systems  
+- Create responsive and user-friendly UI designs  
+- Work on real-world projects to improve problem-solving skills  
+
+---
+
+## 📌 Current Focus
+
+- Advanced MERN stack development  
+- Authentication (JWT & secure login systems)  
+- API development & integration  
+- Deployment (Vercel, Netlify, Render)  
+
+---
+
+## 🎯 Career Goal
+
+To become a professional Full-Stack Developer and contribute to impactful real-world software projects in a professional development environment.
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: [Your GitHub Username]  
+- LinkedIn: [Your LinkedIn Profile]  
+- Email: [Your Email]
+
+---
+
+⭐ Always learning. Always building. Always improving.
