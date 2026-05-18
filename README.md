@@ -66,8 +66,8 @@ Passionate Full-Stack Developer focused on building scalable, responsive, and pr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AwaisCoder01&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwaisCoder01&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -75,7 +75,7 @@ Passionate Full-Stack Developer focused on building scalable, responsive, and pr
 ## 📈 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AwaisCoder01&theme=tokyonight"/>
 </p>
 
 ---
@@ -83,7 +83,7 @@ Passionate Full-Stack Developer focused on building scalable, responsive, and pr
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/AwaisCoder01">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
