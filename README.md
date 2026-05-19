@@ -98,10 +98,10 @@
 
 ## 💡 Motto
 
-> ""Every single day, I strive to become better than yesterday’s version of myself.""
+> <h3>"Every single day, I strive to become better than yesterday’s version of myself."<\h3>
 
 ---
 
 <p align="center">
 🔥 Built with passion by Muhammad Awais 🔥
-</p>                this is code correct it
+</p>               
