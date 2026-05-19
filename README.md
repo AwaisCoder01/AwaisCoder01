@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Awais</h1>
 
 <h2 align="center">🚀 MERN Stack Developer | 🎓 BSCS Student | 💡 Problem Solver</h2>
+
 ---
 
 ## 🚀😎 About Me
@@ -103,4 +104,4 @@
 
 <p align="center">
 🔥 Built with passion by Muhammad Awais 🔥
-</p>
+</p>                this is code correct it
