@@ -85,7 +85,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HasanCoder66&theme=darkhub&row=1&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AwaisCoder01&theme=darkhub&row=1&margin-w=15" alt="Trophies" />
 </p>
 
 
