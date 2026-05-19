@@ -89,9 +89,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AwaisCoder01&theme=tokyonight" />
-</p>
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AwaisCoder01&theme=tokyo-night" />
 </p>
 <p align="center">
@@ -102,8 +99,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AwaisCoder01&theme=tokyonight" />
 </p>
 
-![snake gif](https://github.com/AwaisCoder01/AwaisCoder01/blob/output/github-contribution-grid-snake.svg)
-
+<img src="https://github.com/AwaisCoder01/AwaisCoder01/blob/output/github-contribution-grid-snake-dark.svg" />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AwaisCoder01&label=Profile%20Views&color=58a6ff&style=for-the-badge" />
 </p>
