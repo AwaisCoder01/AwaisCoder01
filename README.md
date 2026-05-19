@@ -98,10 +98,10 @@
 
 ## 💡 Motto
 
-> <h3>"Every single day, I strive to become better than yesterday’s version of myself."<\h3>
+> <h3>"Every single day, I strive to become better than yesterday’s version of myself."
 
 ---
 
 <p align="center">
-🔥 Built with passion by Muhammad Awais 🔥
+🔥 <h1>Built with passion by Muhammad Awais 🔥
 </p>               
