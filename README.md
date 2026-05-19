@@ -108,9 +108,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AwaisCoder01&theme=tokyonight&hide_border=true" />
 </p>
-<p align="c  enter">
-  <img src="https://komarev.com/ghpvc/?username=AwaisCoder01&label=Profile%20Views&color=58a6ff&style=for-the-badge" />
-</p>
+
+---
 
 ### 💼 Resume
 📄 [View My Resume](https://drive.google.com/file/d/1KrllxxgMv-FzwpfggjAgUoTBc0hRxnG8/view?usp=sharing)
