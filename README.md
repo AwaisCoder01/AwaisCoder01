@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Awais</h1>
 
-<h3 align="center">🚀 MERN Stack Developer | 🎓 BSCS Student | 💡 Problem Solver</h3>
+<h2 align="center">🚀 MERN Stack Developer | 🎓 BSCS Student | 💡 Problem Solver</h2>
 
-<p align="center">
-Passionate Full-Stack Developer focused on building scalable, responsive, and production-ready web applications using the MERN Stack.
-</p>
+
 
 ---
 
