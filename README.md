@@ -112,7 +112,7 @@
 ---
 
 ### 💼 Resume
-📄 [View My Resume](https://drive.google.com/file/d/1KrllxxgMv-FzwpfggjAgUoTBc0hRxnG8/view?usp=sharing)
+📄 [View My Resume](Resume File link)
 
 ---
 
