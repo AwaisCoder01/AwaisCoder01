@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Awais</h1>
 
-<h2 align="center">🚀 MERN Stack Developer | 🎓 BSCS Student | 💡 Problem Solver</h2>
-
+<h3 align="center">🚀 MERN Stack Developer | 🎓 BSCS Student</h3>
 ---
 
 ## 🚀😎 About Me
