@@ -85,7 +85,7 @@
 ## 📊 GitHub Stats
 
   <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HasanCoder66&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AwaisCoder01&theme=tokyonight" />
 </p>
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AwaisCoder01&theme=tokyonight" />
