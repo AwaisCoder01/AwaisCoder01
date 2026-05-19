@@ -18,15 +18,11 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/AwaisCoder01">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/username/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://web.facebook.com/username" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40" /></a>
+  <a href="https://www.instagram.com/username/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+  <a href="https://www.youtube.com/@hasanscode" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" height="40" /></a>
+  <a href="https://leetcode.com/username" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" height="40" /></a>
 </p>
 
 ---
