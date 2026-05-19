@@ -17,7 +17,7 @@
 
 ## ⚙️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,supabase,firebase,nextjs,nodejs,express,mongodb,git,postman,github,vscode," />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,nodejs,express,supabase,firebase,mongodb,git,postman,github,vscode," />
 </p>
 
 ### 🌐 Frontend
@@ -32,7 +32,7 @@
 
 ### 🗄️ Database
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb," />
+<img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb," />
 </p>
 
 ### 🔧 Tools
