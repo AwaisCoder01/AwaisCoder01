@@ -85,12 +85,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AwaisCoder01&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwaisCoder01&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=HasanCoder66&theme=darkhub&row=1&margin-w=15" alt="Trophies" />
 </p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AwaisCoder01&theme=tokyonight" />
-</p>
+
 
 ---
 
