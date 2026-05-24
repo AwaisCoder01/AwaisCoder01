@@ -119,9 +119,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AwaisCoder01&label=Profile%20Views&color=58a6ff&style=for-the-badge" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HasanCoder66&label=Profile%20Views&color=58a6ff&style=for-the-badge" />
-</p>
+
 ---
 
 <p align="center">
