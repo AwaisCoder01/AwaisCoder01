@@ -85,20 +85,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AwaisCoder01&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CoderAwais01&theme=tokyonight" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AwaisCoder01&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AwaisCoder01&theme=darkhub&row=1&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CoderAwais01&theme=darkhub&row=1&margin-w=15" alt="Trophies" />
 </p>
 
   <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AwaisCoder01&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoderAwais01&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AwaisCoder01&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderAwais01&theme=tokyo-night" />
 </p>
 
 ---
@@ -106,7 +106,7 @@
 ## 📈 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AwaisCoder01&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=CoderAwais01&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -117,7 +117,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AwaisCoder01&label=Profile%20Views&color=58a6ff&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=CoderAwais01&label=Profile%20Views&color=58a6ff&style=for-the-badge" />
 </p>
 
 ---
