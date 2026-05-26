@@ -23,7 +23,7 @@
 <a href="https://github.com/CoderAwais01" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.fiverr.com/YOUR_USERNAME" target="_blank"><img src="https://cdn.simpleicons.org/fiverr/1DBF73" height="40" alt="Fiverr"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://web.facebook.com/share/18aQZJ3hLC/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/username/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/></a>
+<a href="https://www.instagram.com/coderawais01?igsh=dm85OHJzeWJid3Jo" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/></a>
 </p>
 
 
