@@ -117,13 +117,6 @@
 
 ---
 
-## 🧠 LeetCode Stats 
-<p align="center"> 
-  <img src="https://leetcard.jacoblin.cool/CoderAwais01?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
-</p>
-
----
-
 ## 📈 GitHub Streak
 
 <p align="center">
